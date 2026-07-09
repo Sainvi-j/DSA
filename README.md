@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sainvi-j/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sainvi-j/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
 | [0845-longest-mountain-in-array](https://github.com/Sainvi-j/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sainvi-j/DSA/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
