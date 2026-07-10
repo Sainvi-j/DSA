@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sainvi-j/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Sainvi-j/DSA/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/Sainvi-j/DSA/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sainvi-j/DSA/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Sainvi-j/DSA/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
