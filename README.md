@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sainvi-j/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Sainvi-j/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sainvi-j/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sainvi-j/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sainvi-j/DSA/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sainvi-j/DSA/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Sainvi-j/DSA/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
