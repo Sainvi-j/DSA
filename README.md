@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -155,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sainvi-j/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
