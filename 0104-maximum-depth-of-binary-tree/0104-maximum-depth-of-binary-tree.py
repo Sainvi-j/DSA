@@ -9,4 +9,12 @@ class Solution:
         if not root:
             return 0
         
-        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
+        queue =  deque([(root, 1)])
+
+        while queue:
+            node, lvl = queue.popleft()
+            if node.right:
+                queue.append((node.right, lvl+1))
+            if node.left:
+                queue.append((node.left, lvl+1))
+        return lvl
