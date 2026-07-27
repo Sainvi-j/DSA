@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sainvi-j/DSA/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sainvi-j/DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Sainvi-j/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sainvi-j/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sainvi-j/DSA/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sainvi-j/DSA/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sainvi-j/DSA/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
