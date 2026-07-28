@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sainvi-j/DSA/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sainvi-j/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sainvi-j/DSA/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sainvi-j/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -315,9 +317,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
