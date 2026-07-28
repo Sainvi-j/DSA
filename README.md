@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sainvi-j/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sainvi-j/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sainvi-j/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sainvi-j/DSA/tree/master/0338-counting-bits) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Sainvi-j/DSA/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sainvi-j/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sainvi-j/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sainvi-j/DSA/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -311,4 +315,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sainvi-j/DSA/tree/master/0133-clone-graph) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
