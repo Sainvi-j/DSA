@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/Sainvi-j/DSA/tree/master/0621-task-scheduler) |
 | [0845-longest-mountain-in-array](https://github.com/Sainvi-j/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/Sainvi-j/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sainvi-j/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sainvi-j/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sainvi-j/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sainvi-j/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Sainvi-j/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/Sainvi-j/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -349,4 +352,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sainvi-j/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
