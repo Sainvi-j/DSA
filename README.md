@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sainvi-j/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Sainvi-j/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Sainvi-j/DSA/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/Sainvi-j/DSA/tree/master/1693-daily-leads-and-partners) |
 ## Greedy
 |  |
 | ------- |
