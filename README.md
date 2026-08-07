@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/Sainvi-j/DSA/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Sainvi-j/DSA/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Sainvi-j/DSA/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/Sainvi-j/DSA/tree/master/1965-employees-with-missing-information) |
 ## Greedy
 |  |
 | ------- |
