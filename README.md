@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Sainvi-j/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sainvi-j/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Sainvi-j/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Sainvi-j/DSA/tree/master/0621-task-scheduler) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sainvi-j/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
