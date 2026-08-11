@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sainvi-j/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sainvi-j/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sainvi-j/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sainvi-j/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sainvi-j/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sainvi-j/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sainvi-j/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sainvi-j/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sainvi-j/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sainvi-j/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sainvi-j/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sainvi-j/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
