@@ -1,4 +1,16 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-        return max(j-i for i,j in combinations(range(len(s)+1),2)
-            if max(Counter(s[i:j]).values())<3)
+        left = 0
+        best = 0
+
+        window = defaultdict(int)
+        for right in range(len(s)):
+            window[s[right]] += 1
+
+            while window[s[right]] > 2:
+                window[s[left]] -= 1
+                left += 1
+            
+            best = max(best, right - left + 1)
+
+        return best
