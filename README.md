@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sainvi-j/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Sainvi-j/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sainvi-j/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sainvi-j/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sainvi-j/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sainvi-j/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sainvi-j/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sainvi-j/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sainvi-j/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sainvi-j/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sainvi-j/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sainvi-j/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sainvi-j/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Sainvi-j/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sainvi-j/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sainvi-j/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sainvi-j/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sainvi-j/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sainvi-j/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -458,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sainvi-j/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sainvi-j/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
