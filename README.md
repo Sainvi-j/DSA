@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sainvi-j/DSA/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sainvi-j/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sainvi-j/DSA/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sainvi-j/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sainvi-j/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/Sainvi-j/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Sainvi-j/DSA/tree/master/1927-sum-game) |
