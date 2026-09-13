@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sainvi-j/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sainvi-j/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Sainvi-j/DSA/tree/master/1563-stone-game-v) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sainvi-j/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sainvi-j/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
