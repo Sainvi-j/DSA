@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sainvi-j/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sainvi-j/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Sainvi-j/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sainvi-j/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Sainvi-j/DSA/tree/master/1140-stone-game-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Sainvi-j/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sainvi-j/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
