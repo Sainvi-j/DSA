@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sainvi-j/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sainvi-j/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sainvi-j/DSA/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/Sainvi-j/DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Sainvi-j/DSA/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sainvi-j/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sainvi-j/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sainvi-j/DSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Sainvi-j/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sainvi-j/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sainvi-j/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sainvi-j/DSA/tree/master/3498-reverse-degree-of-a-string) |
