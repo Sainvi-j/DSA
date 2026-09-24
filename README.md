@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sainvi-j/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sainvi-j/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sainvi-j/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sainvi-j/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sainvi-j/DSA/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sainvi-j/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sainvi-j/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sainvi-j/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sainvi-j/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sainvi-j/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sainvi-j/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sainvi-j/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sainvi-j/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sainvi-j/DSA/tree/master/0189-rotate-array) |
