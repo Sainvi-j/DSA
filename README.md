@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sainvi-j/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sainvi-j/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sainvi-j/DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Sainvi-j/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sainvi-j/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sainvi-j/DSA/tree/master/0054-spiral-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sainvi-j/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sainvi-j/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sainvi-j/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sainvi-j/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sainvi-j/DSA/tree/master/0141-linked-list-cycle) |
