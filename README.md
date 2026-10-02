@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sainvi-j/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sainvi-j/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sainvi-j/DSA/tree/master/0115-distinct-subsequences) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sainvi-j/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sainvi-j/DSA/tree/master/0412-fizz-buzz) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sainvi-j/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sainvi-j/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sainvi-j/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sainvi-j/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sainvi-j/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
