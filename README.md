@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sainvi-j/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sainvi-j/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sainvi-j/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sainvi-j/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sainvi-j/DSA/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Sainvi-j/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Sainvi-j/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sainvi-j/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sainvi-j/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sainvi-j/DSA/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Sainvi-j/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Sainvi-j/DSA/tree/master/0784-letter-case-permutation) |
 | [1096-brace-expansion-ii](https://github.com/Sainvi-j/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sainvi-j/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
