@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sainvi-j/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sainvi-j/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sainvi-j/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sainvi-j/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sainvi-j/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sainvi-j/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sainvi-j/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -668,10 +670,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sainvi-j/DSA/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Sainvi-j/DSA/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sainvi-j/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sainvi-j/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sainvi-j/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
