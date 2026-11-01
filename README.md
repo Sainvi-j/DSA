@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sainvi-j/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Sainvi-j/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sainvi-j/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sainvi-j/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/Sainvi-j/DSA/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/Sainvi-j/DSA/tree/master/0835-image-overlap) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sainvi-j/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sainvi-j/DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Sainvi-j/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sainvi-j/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Sainvi-j/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sainvi-j/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Sainvi-j/DSA/tree/master/0836-rectangle-overlap) |
